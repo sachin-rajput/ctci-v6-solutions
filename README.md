@@ -10,3 +10,4 @@
   - [1.2 > Decide if one string is a permutation of the other](https://github.com/sachin-rajput/ctci-v6-solutions/blob/master/ch1_Arrays_Strings/q1.2.py)
   - [1.3 > Replace all spaces in a string with '%20'](https://github.com/sachin-rajput/ctci-v6-solutions/blob/master/ch1_Arrays_Strings/q1.3.py)
   - [1.4 > Check if it is a permutation of a palin­ drome](https://github.com/sachin-rajput/ctci-v6-solutions/blob/master/ch1_Arrays_Strings/q1.4.py)
+  - [1.5 > Check if they are one edit (or zero edits) away](https://github.com/sachin-rajput/ctci-v6-solutions/blob/master/ch1_Arrays_Strings/q1.5.py)
