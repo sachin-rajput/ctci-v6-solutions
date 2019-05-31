@@ -18,4 +18,6 @@
 ## Problems:
 
   - 1. [Two Sums](https://github.com/sachin-rajput/ctci-v6-solutions/blob/master/leetcode/twosum.py)
-  - 2. [LRU Cache](https://github.com/sachin-rajput/ctci-v6-solutions/blob/master/leetcode/lrucahce.py)
+  - 2. [LRU Cache](https://github.com/sachin-rajput/ctci-v6-solutions/blob/master/leetcode/lrucache.py)
+  - 3. [Add two numbers](https://github.com/sachin-rajput/ctci-v6-solutions/blob/master/leetcode/add2numbers.py)
+  - 4. [Longest Common Substring](https://github.com/sachin-rajput/ctci-v6-solutions/blob/master/leetcode/lcsubstring.py)
